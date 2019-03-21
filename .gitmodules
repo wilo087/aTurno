@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:wilo087/aturno-backend.git
+[submodule "backend-admin"]
+	path = backend-admin
+	url = git@github.com:wilo087/aturno-backend-admin.git
+[submodule "idps"]
+	path = idps
+	url = git@github.com:wilo087/aturno-idsp.git
